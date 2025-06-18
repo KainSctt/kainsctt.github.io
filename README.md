@@ -1,5 +1,3 @@
-# kainsctt.github.io
-Angels Of Death MC - Grapeseed Story
 <!DOCTYPE html>
 <html lang="en">
 <head>
